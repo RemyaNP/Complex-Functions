@@ -14,3 +14,4 @@ simple screen recorder
 vlc
 chrome
 Jmeter
+appium yet to install
