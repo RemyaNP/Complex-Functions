@@ -1,0 +1,15 @@
+postman
+visual studio
+slack
+eclipse    (testng- https://dl.bintray.com/testng-team/testng-eclipse-release/6.14.3/)
+intellij
+android studio
+appium
+zoom
+pgadmin 111
+firefox
+htop
+simple screen recorder
+vlc
+chrome
+Jmeter
