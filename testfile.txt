@@ -14,4 +14,4 @@ simple screen recorder
 vlc
 chrome
 Jmeter
-
+kali linux
